@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "idCapitan": "18",
+      "fecha de pesca": "22/10/21",
+      "zarpe": "Mazatlan",
+      "captura": 49,
+      "empresa": "Grupomar"
+    },
+    {
+        "id": 2,
+        "idCapitan": "3",
+        "fecha de pesca": "8/10/21",
+        "zarpe": "Los Cabos",
+        "captura": 60,
+        "empresa": "PescaPro"
+    },
+    {
+        "id": 3,
+        "idCapitan": "15",
+        "fecha de pesca": "10/08/21",
+        "zarpe": "Mazatlan",
+        "captura": 85,
+        "empresa": "Grupomar"
+    }
+]
